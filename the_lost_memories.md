@@ -7,7 +7,7 @@ The memoirs seem to be kept by one individual, named Artemis, or somebody that m
 We, as the publishers of these manuscript, want to inform you, the reader, that what you will read here is not verified and we consider most of this to be the ramblings of a mad worshiper of the 7 sisters. With that being said, in our research, we did find traces of his stories dating over a millennia, accounts described by him being reported as far as the age of Choros. The most recent of these manuscripts was discovered in the Year of the Seventh Moon (1157 by Imperial Reckoning), bearing ink still fresh as morning dew.
 The first edition of this manuscript will mostly contain the writings found around Phandalin, the epicenter of the old Netherese Obelisk. These fragments were discovered in various states - some buried beneath rubble in abandoned mines, others hidden within the hollow spaces of ancient walls, and a particularly interesting collection found in a sealed chest within the Stonehill Inn's cellar. While these memoirs seem to be related to the rumors of the underground city, no concrete evidence has been found so far linking them to the whispered tales of vast chambers and forgotten halls beneath Phandalin's streets.
 
-## Jurnal 476|A
+## Jurnal 476|A - The Brotherhood's Call
 
 The brotherhood calls on me again. Now in the form of Silas. As a paladin of the Seven Sisters and agent of the brotherhood, I find his letter an embarrassment to my oath, but I cannot afford to turn him down. Mercenary work allows me to protect those in need, and if this work will save souls, even better.
 ***
@@ -15,7 +15,7 @@ May the light of the 7 moons guide me,
 Artemis
 ***
 
-## Jurnal 531|S
+## Jurnal 531|S - Strange Companions in Dark Places
 
 Enia is the most annoying elf I ever worked with. The constant shadow hiding and apearing in your face is getting on my nerves. I do admit that his story is full of darkness outside of his controll, but I am afraid that the darkness made its way inside and is eating at her soul. No mather, I trust in the Sister of the First Quarter to show only what is needed and the Sister of the Waxing Crescent to leave her in my protection, even if it's temporary. Even with that said, without their guidance I would of released her the moment we meet if not for their guidance and signs. Nevertheless, we have a job to do, and even more than the job, an obligation bestowed upon me by the Sister of the Dark Moon herself. My hart should be empty of doubts and only focus should remain.
 
@@ -27,7 +27,7 @@ By my oath to the Sister of the Waxing Crescent, I shall maintain my vigil.
 Artemis
 ***
 
-## Journal 137|M
+## Journal 137|M - Visions in Fever
 
 The fever still burns through my veins, yet the moonlight soothes like a mother's touch. These clerics speak of the Sisters as if they walk among us. In my delirium last night, I saw them - all seven, their forms shifting like smoke under starlight. The Sister of the Waxing Crescent reached for me, her touch cool against my burning skin. "Shield those who cannot shield themselves," she whispered, and for a moment, I thought I glimpsed the truth behind her veil.
 
@@ -42,7 +42,7 @@ Written under the light of the seven moons,
 Artemis
 ***
 
-## Journal 531|T
+## Journal 531|T - The Stone Golem's Path
 
 The strangers finally revealed their names - Richard, the one with those unsettling dark eyes that seem to pierce through souls, and his companion Grock, who bears two massive gauntlets that would make even a giant envious. The tension in the chamber was palpable as they explained their presence in these depths.
 
@@ -63,7 +63,7 @@ By the Seven Sisters' grace, may we find truth in darkness,
 Artemis
 ***
 
-## Journal 136|N
+## Journal 136|N - Pride Before the Fall
 
 The drums of war echo through Mistbrook, but my spirit soars with anticipation. These cultists think their numbers will overwhelm us - five to one, they say. Let them come. My blade thirsts for righteous combat, and my armor gleams like the morning sun. The common folk look to me with such admiration, as they should. After all, how many nobles would stand here, ready to defend a simple village?
 
@@ -78,7 +78,7 @@ Glory Awaits,
 Artemis
 ***
 
-## Journal 136|O
+## Journal 136|O - The Witness at Mistbrook
 
 I was there at Mistbrook when the noble paladin fell. Artemis, for all his gleaming armor and bold words, never saw it coming. The cultists didn't just bring numbers - they brought darkness itself. Five to one, he said with such confidence that morning. If only he knew they were merely the bait.
 
@@ -96,7 +96,7 @@ Sergeant Kira Blackwood
 Village Militia of Mistbrook
 ***
 
-## Journal 532|V
+## Journal 532|V - The Battle of Many Eyes
 
 We cautiously stepped into the expansive chamber, the air heavy with an eerie stillness. Before us loomed a massive entity, an amorphous mass seemingly composed of countless eyes, each one blinking and swiveling with unnerving awareness. Enia took the lead, moving forward to assess whether the creature posed a threat.
 
