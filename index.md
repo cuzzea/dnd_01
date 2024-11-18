@@ -16,8 +16,7 @@ The first edition of this manuscript will mostly contain the writings found arou
 
 ## Table of Contents
 
-## Table of Contents
-
 {% for post in site.posts reversed %}
-* [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
+- [{{ post.title }}]({{ post.url | relative_url }})  
+  {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}
 {% endfor %}
