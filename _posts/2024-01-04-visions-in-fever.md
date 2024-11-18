@@ -12,6 +12,6 @@ My paladin training never prepared me for this. The code, the combat, the rigid 
 I must rest now. The moons are rising, and their light calls to me in ways I cannot yet understand. Whether vision or madness, I feel changed. The warrior in me wants to dismiss these experiences, but something deeper knows - this is only the beginning.
 
 ***
-Written under the light of the seven moons,
+Written under the light of the seven moons,  
 Artemis
 ***

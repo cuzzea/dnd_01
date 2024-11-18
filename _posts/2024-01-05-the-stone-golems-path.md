@@ -18,6 +18,6 @@ When he spoke words in a tongue that made my teeth ache, the magical barrier sim
 The Sister of the First Quarter's teachings ring clear - "reveal what must be known, shroud what must remain hidden." Yet I find myself wondering which category Richard's strange powers fall into. These are dangerous times to harbor such uncertainties.
 
 ***
-By the Seven Sisters' grace, may we find truth in darkness,
+By the Seven Sisters' grace, may we find truth in darkness,  
 Artemis
 ***

@@ -14,7 +14,7 @@ They say pride goes before a fall. In Artemis's case, it was literal. His armor 
 What happened next... well, that's why I'm writing this. People need to know that sometimes death is just the beginning. The Sisters of the Moon don't just choose their champions - sometimes they remake them entirely.
 
 ***
-Witnessed under seven moons,
-Sergeant Kira Blackwood
+Witnessed under seven moons,  
+Sergeant Kira Blackwood  
 Village Militia of Mistbrook
 ***

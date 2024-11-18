@@ -12,6 +12,6 @@ I've organized the defenses myself. The strongest villagers will hold the barric
 Some old crone tried to gift me a moonstone amulet for protection. I politely declined - my faith in the light and my own blade are all the protection I need. These country folk and their moon worship... charming, but ultimately unnecessary. Tomorrow's victory will prove that true strength lies in steel and training, not in watching the skies for signs.
 
 ***
-Glory Awaits,
+Glory Awaits,  
 Artemis
 ***

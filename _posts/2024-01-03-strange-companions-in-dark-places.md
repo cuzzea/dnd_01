@@ -12,6 +12,6 @@ The Sister of the New Moon's mark appeared twice before meeting them - first as 
 After talking with Sithlar, we ventured into the ruins. Down the first flight of stairs, a vast chamber opened before us, its floor marked by tracks in ancient dust leading to a right-hand door. Another descent brought us to a chamber that would haunt even the bravest soul - a grand table surrounded by chairs, fresh corpses strewn about like discarded dolls, some bearing tentacles that had no right to exist on human flesh. The sounds drew us to another door, where we encountered a young elven boy who seemed to serve as their attendant. His refusal to speak common tongue grated on my nerves, though Enia's intervention revealed he meant no harm - they shared some elvish dialect I couldn't grasp. At least he had the courtesy to guide us to where the two adventurers had holed up, giving them ample time to make themselves presentable, or whatever business delayed them.
 
 ***
-By my oath to the Sister of the Waxing Crescent, I shall maintain my vigil.
+By my oath to the Sister of the Waxing Crescent, I shall maintain my vigil.  
 Artemis
 ***

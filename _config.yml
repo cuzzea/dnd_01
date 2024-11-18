@@ -1,10 +1,8 @@
 title: The Lost Memories of Artemis
 description: A collection of mysterious tales from the brotherhood of the sigil
-remote_theme: benbalter/retlab
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
-  - jekyll-remote-theme
-  - jekyll-feed
-  - jekyll-sitemap
-baseurl: ""
+- jekyll-remote-theme
+baseurl: "dnd_01"
 permalink: /stories/:title/
-markdown: kramdown
+show_downloads: false
