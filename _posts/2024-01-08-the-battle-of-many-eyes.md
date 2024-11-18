@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Journal 532|V - The Battle of Many Eyes"
+excerpt: "A harrowing battle against a many-eyed creature leads to Grock's tragic fall. Artemis performs sacred rites while Richard grapples with loss under Selune's light."
 ---
+
+
 
 We cautiously stepped into the expansive chamber, the air heavy with an eerie stillness. Before us loomed a massive entity, an amorphous mass seemingly composed of countless eyes, each one blinking and swiveling with unnerving awareness. Enia took the lead, moving forward to assess whether the creature posed a threat.
 
@@ -13,12 +16,13 @@ The creature's surface rippled with malevolent intelligence, its countless eyes 
 
 Enia and I fought tirelessly against the smaller manifestations the goo spawned, Richard unleashing a massive wave of darkness that swallowed the battlefield in pitch blackness. Visibility was obliterated, and Richard's eyes reverted to their ominous black void, reflecting the overwhelming darkness he commanded. Through sheer determination, we eradicated all the monsters, but the loss of Grock weighed heavily on us as we discovered him nearly devoured by the beast.
 
-Richard was visibly shaken by the loss, his demeanor darkened by grief. In an attempt to honor Grock's memory, I cast **Gentle Repose**, a moon-infused spell that preserves the body, keeping it fresh for ten days. This sacred magic ensures that Grock rests peacefully, unmarred by decay.
+Richard was visibly shaken by the loss, his demeanor darkened by grief. Drawing upon my connection to Selune, I performed the sacred rites of preservation. Under the Moonmaiden's silver light streaming through the chamber's high windows, I cast **Gentle Repose**, infusing Grock's body with the protective essence of Our Lady of Silver. The moonlight seemed to shimmer around his form, ensuring his body would remain untouched by time's decay for ten days - a blessing often granted to fallen warriors who die far from home.
 
-As I stood beside Grock's remains, the weight of our mission pressed upon me. *I must find a way to help Richard come to terms with his loss. Together, we can honor Grock's sacrifice and continue to protect those who cannot protect themselves.*
+As I stood beside Grock's remains, I whispered the Oath of the Waning Gibbous: "I offer myself as a beacon of the Moonmaiden's light, accepting both her blessings and duties." The familiar blue-white glow of Selune's power emanated softly from my hands as I completed the ritual. *I must find a way to help Richard come to terms with his loss. By the light of the Moon, we shall honor Grock's sacrifice and continue to shield those who cannot shield themselves.*
 
 ***
-Written outside the light of the seven moons,  
+Written outside the light of the moon,  
 Artemis
 
 ***
+

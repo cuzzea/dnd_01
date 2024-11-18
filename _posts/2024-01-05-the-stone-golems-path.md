@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Journal 531|T - The Stone Golem's Path"
+excerpt: "A hidden dwarf-sized doorway protected by strange magic is discovered, while Richard's mysterious abilities raise questions about the true nature of his powers."
 ---
+
+
 
 The strangers finally revealed their names - Richard, the one with those unsettling dark eyes that seem to pierce through souls, and his companion Grock, who bears two massive gauntlets that would make even a giant envious. The tension in the chamber was palpable as they explained their presence in these depths.
 
@@ -13,12 +16,14 @@ What troubles my spirit more are the blood marks we found near the door at the p
 
 While waiting, we took the opportunity to examine the chamber more closely. Richard's keen eyes spotted unusual wear patterns in the stonework near one of the corners. Upon closer inspection, we discovered a smaller doorway, barely tall enough for a dwarf, cleverly concealed behind a section of worked stone. The door itself radiated magic - I could feel the familiar tingling of protective wards, though their nature seemed different from any I'd encountered before. While Grock was able to identify the magic protecting it, Richard approached it with that unsettling confidence of his, producing one of his strange bound papers and studying the magical barrier with intense focus.
 
-When he spoke words in a tongue that made my teeth ache, the magical barrier simply... yielded. The Sister of the Dark Moon must be laughing at my confusion, for surely this is the kind of mystery she delights in presenting to her followers. Though the newly revealed stairway beckons downward, we agreed to investigate the chamber with the blood marks first. Enia's instincts mirror my own on this - whatever left those stains requires our immediate attention.
+When he spoke words in a tongue that made my teeth ache, the magical barrier simply... yielded. Our Lady of Silver must be watching with intrigue, for surely this is the kind of mystery she presents to those who seek knowledge under her ever-changing light. Though the newly revealed stairway beckons downward, we agreed to investigate the chamber with the blood marks first. Enia's instincts mirror my own on this - whatever left those stains requires our immediate attention.
 
-The Sister of the First Quarter's teachings ring clear - "reveal what must be known, shroud what must remain hidden." Yet I find myself wondering which category Richard's strange powers fall into. These are dangerous times to harbor such uncertainties.
+The oath of the First Quarter Moon rings in my mind - "Like the half-lit moon, I will guide those lost and illuminate the path ahead." Yet I find myself wondering whether Richard's strange powers are meant to be illuminated or kept in shadow. These are dangerous times to harbor such uncertainties.
 
 ***
-By the Seven Sisters' grace, may we find truth in darkness,  
+By Selune's eternal light, may we find truth in darkness, 
 Artemis
 
 ***
+
+

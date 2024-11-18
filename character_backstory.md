@@ -21,11 +21,11 @@
 
 ## Religious Aspects:
 
-- Follows moon deity teachings
-- Could incorporate elements from the Seven Sisters' oaths:
-   - "Shield those who cannot shield themselves"
-   - "Honor the cycle of life, death, and rebirth"
-   - Maintains balance between light and dark
+- Follows Selune's teachings of navigation, protection of wanderers, and seeking
+- Embraces the moon goddess's changing moods and forms
+- Aids non-evil lycanthropes as part of Selune's portfolio
+- Uses moonlight divination to guide seekers and questers
+- Draws power from the mysterious forces that govern tides and cycles
 
 ## Guild Connection Options:
 
@@ -41,21 +41,25 @@
 - Family killed during a raid by cultists during a lunar eclipse
 - Rescued by a passing paladin order
 - Trained in the arts of combat and justice
+
 2. First Calling (The Paladin Path)
 - Becomes a devoted paladin seeking to protect others from suffering similar losses
 - Serves with distinction in a holy order
 - Develops a reputation for helping common folk despite noble background
 - Starts noticing strange connections to lunar cycles during his missions
+
 3. The Breaking Point (Near Death)
 - Major battle against overwhelming odds defending a village
 - Critically wounded while protecting civilians
-- Found by moon-worshipping clerics of the Seven Sisters
+- Found by Selune clerics during full moon
 - Experience of being between life and death changes his perspective
+
 4. Transformation (The Moon's Chosen)
-- Recovers under the care of the moon clerics
-- Learns of the Seven Sisters and their different aspects
-- Takes additional vows under the Sister of the Waxing Crescent
-- Begins combining paladin martial prowess with divine moon magic
+- Recovers under the light of Selune (both moon and goddess)
+- Learns the mysteries of moon magic and divination
+- Takes additional vows under the Night White Lady
+- Combines paladin prowess with Selune's divine blessings
+
 5. Current Path (Guild Agent)
 - Recruited by the brotherhood of the sigil
 - Uses guild resources to protect others and investigate moon-related phenomena
@@ -92,7 +96,7 @@
 - Active member of the brotherhood of the sigil
 - Uses guild connections to protect innocents and investigate mysteries
 - Maintains independence while serving greater good
-- Follows personal interpretation of the Seven Sisters' teachings
+- Follows personal interpretation of Elune's teachings
 - Writes memoirs of adventures (connecting to the found manuscripts)
 
 
@@ -103,19 +107,31 @@ Traditional Divine Oath: "By the light of the seven moons, I swear to:
 Protect the innocent under the cover of night
 Honor the cycle of life, death, and rebirth
 Maintain the balance between light and dark
-Guard the secrets of the Seven Sisters"
-Special Oaths to the Seven Sisters:
+Guard the secrets of Elune"
 
-Sister of the New Moon (Necromancy) "I vow to honor death as a transition, not an end. The fallen may serve again under moonlight's grace."
+# Sacred Oath of the Moonmaiden's Cycles:
 
-Sister of the Waxing Crescent (Protection) "I shall shield those who cannot shield themselves, as the growing moon shields travelers in darkness."
+"By Elune's eternal light, I swear these oaths through her sacred phases:
 
-Sister of the First Quarter (Justice) "Like the half-lit moon, I will reveal what must be known and shroud what must remain hidden."
+New Moon (Transition)
+"I honor change as Elune teaches, understanding that endings lead to new beginnings."
 
-Sister of the Waxing Gibbous (Knowledge) "I seek wisdom in both light and shadow, for truth dwells in the spaces between."
+Waxing Crescent (Protection)
+"I shall shield wanderers and seekers, as the growing moon guides travelers in darkness."
 
-Sister of the Full Moon (Power) "When darkness falls, I shall rise full in power, bringing hope to those in despair."
+First Quarter (Navigation)
+"Like the half-lit moon, I will guide those lost and illuminate the path ahead."
 
-Sister of the Waning Gibbous (Sacrifice) "I offer myself as vessel to the Sisters' will, accepting both their gifts and burdens."
+Waxing Gibbous (Seeking)
+"I seek wisdom in Elune's light, for truth lies in her ever-changing face."
 
-Sister of the Dark Moon (Secrets) "I keep the deepest mysteries of the Sisters, sharing their gifts only with the worthy."
+Full Moon (Radiance)
+"When darkness falls, I shall stand radiant with Elune's power, bringing hope to those in despair."
+
+Waning Gibbous (Service)
+"I offer myself as a beacon of the Moonmaiden's light, accepting both her blessings and duties."
+
+Dark Moon (Mystery)
+"I honor the mysteries of Our Lady of Silver, sharing her gifts with those who truly seek."
+
+These oaths I swear under the eternal light of the moon, in Elune's name."
