@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="navigation">
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}">&laquo; {{ page.previous.title | split: " - " | first }}</a>
+  {% endif %}
+  
+  <a href="{{ site.baseurl }}/">Back to Index</a>
+  
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}">{{ page.next.title | split: " - " | first }} &raquo;</a>
+  {% endif %}
+</div>
+
+<article>
+  {{ content }}
+</article>

@@ -14,4 +14,5 @@ After talking with Sithlar, we ventured into the ruins. Down the first flight of
 ***
 By my oath to the Sister of the Waxing Crescent, I shall maintain my vigil.  
 Artemis
+
 ***

@@ -20,4 +20,5 @@ The Sister of the First Quarter's teachings ring clear - "reveal what must be kn
 ***
 By the Seven Sisters' grace, may we find truth in darkness,  
 Artemis
+
 ***

@@ -8,4 +8,5 @@ The brotherhood calls on me again. Now in the form of Silas. As a paladin of the
 ***
 May the light of the 7 moons guide me,  
 Artemis
+
 ***

@@ -14,4 +14,5 @@ Some old crone tried to gift me a moonstone amulet for protection. I politely de
 ***
 Glory Awaits,  
 Artemis
+
 ***

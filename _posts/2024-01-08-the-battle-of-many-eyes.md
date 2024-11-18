@@ -20,4 +20,5 @@ As I stood beside Grock's remains, the weight of our mission pressed upon me. *I
 ***
 Written outside the light of the seven moons,  
 Artemis
+
 ***

@@ -17,4 +17,5 @@ What happened next... well, that's why I'm writing this. People need to know tha
 Witnessed under seven moons,  
 Sergeant Kira Blackwood  
 Village Militia of Mistbrook
+
 ***
