@@ -4,20 +4,22 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <style>
-        body {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            font-family: Georgia, serif;
-            line-height: 1.6;
-            color: #333;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        hr {
-            border: 1px solid #eee;
+        /* Add this inside the existing style tag */
+        .table-of-contents {
             margin: 2em 0;
+        }
+        .table-of-contents li {
+            margin: 0.5em 0;
+            list-style-type: none;
+        }
+        .table-of-contents a {
+            color: #2c3e50;
+            text-decoration: none;
+            border-bottom: 1px solid transparent;
+            transition: border-color 0.2s ease;
+        }
+        .table-of-contents a:hover {
+            border-bottom-color: #2c3e50;
         }
     </style>
 </head>
